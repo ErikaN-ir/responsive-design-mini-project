@@ -1,0 +1,9 @@
+.header {
+    position: fixed;
+    /* won't float */
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #e84610;
+    padding: 15px 25px;
+}
